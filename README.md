@@ -3,5 +3,6 @@
 ## Topic
 
 Covid 19 data 
-### Can we predict cases based on mask mandates/number of vaccinations? 
+### Can we predict cases based on mask mandates/number of vaccinations in America? 
+
 
