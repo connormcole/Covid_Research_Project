@@ -33,7 +33,7 @@ We will be using data from March 01, 2021 to February 28, 2022 and analyze trend
 ## Team and Roles 
 There are four members in our team: 
 ##### Connor Cole: 
-Conor is playing role of the square where he will be will be responsible for the repository.
+Connor is playing role of the square where he will be will be responsible for the repository.
 
 ##### Adibayo Ajibosin 
 Adibayo is playing role of the triangle who will create mockup of machine learning model.
