@@ -22,7 +22,7 @@ Pandas will be used on Jupyter Notebook to clean and extract our data. We will a
 After cleaning the data, we will connect AWS RDS to a local PostgresSQL server using SQLAlchemy, joining the data with a Postgres query and connecting Postgres to our Machine Learning Model.
 
 ## Machine learning
-We will be using a regression supervised learning by using positive test data and link each state with their mandate laws, in order to try and predict future spikes in covid cases. We will use the sklearn.linear_model, and LinearRegression tools. 
+We will be using a regression supervised learning by using positive test data and link each state with their mandate laws, in order to try and predict future spikes in covid cases. 
 
 ## Dashboard 
 We will be using tableau to create an interactive map, and some graphs that display our data. 
