@@ -1,6 +1,17 @@
 # Covid Research Project
 
 
+# Topic 
+Covid 19 has affected the whole world for the last 2 years. The US has tried many different methods in order to combat the number of cases in order to minimize the number of deaths. We want to take a look at whether or not mask mandates placed by the state have had an affect on the number of cases, and if we can predict a spike in the number of cases based on past data. 
+
+# Data Source 
+* https://covidactnow.org/data-api
+* https://www.littler.com/publication-press/publication/facing-your-face-mask-duties-list-statewide-orders
+The Covid Act now Api gives us data about the number of cases, deaths, ang hospitilization rate, etc. And the littler graph gives us information on state mask mandates. 
+
+# Communication 
+We will be communicating via Zoom and group chats.
+
 # Technologies used 
 
 ## Data Cleaning and Analysis
