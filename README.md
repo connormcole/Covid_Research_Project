@@ -18,10 +18,15 @@ H02.3: Vaccination does not reduce death rates.
 
 HA2.3: Vaccination does reduce death rates. 
  ### Data Sources 
-The two sources we have picked are
+The two sources we have picked are:
+
+
 https://covidactnow.org/data-api
+
 https://www.littler.com/publication-press/publication/facing-your-face-mask-duties-list-statewide-orders
+
 The COVID act now data API contains information about all states' vaccination numbers. Ratio of vaccines to the population as well as number of vaccines administered. The team will create a database that would have information from above sources and run report sorted by states overall performance on different factors. 
+
 We will be using data from March 01, 2021 to February 28, 2022 and analyze trend over a year. 
 
 ## Team and Roles 
