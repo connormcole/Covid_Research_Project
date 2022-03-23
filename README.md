@@ -7,12 +7,15 @@ H01: Mask mandate does nothing to prevent COVID-19 transmission.
 HA1: Mask mandate does prevent COVID-19 transmission. 
 
 H02.1: Vaccination does not prevent COVID-19 transmission.
+
 HA2.2: Vaccination helps prevent COVID-19 transmission 
 
 H02.2: Vaccination does not reduce hospitalization. 
+
 HA2.2: Vaccination helps reduce hospitalization.
 
-H02.3: Vaccination does not reduce death rates 
+H02.3: Vaccination does not reduce death rates.
+
 HA2.3: Vaccination does reduce death rates. 
  ### Data Sources 
 The two sources we have picked are
@@ -48,4 +51,4 @@ Our model is to show
 
 
 
-### Results is to be published. 
+### Results are to be published. 
