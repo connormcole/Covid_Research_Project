@@ -28,3 +28,4 @@ We will be communicating via slack, zoom, and texting.
 ## Database
 Below is a sample of the data we are using:
 
+![image](https://user-images.githubusercontent.com/92554586/159596460-7cde0416-ae3e-4f42-88ef-837ca299c7de.png)
