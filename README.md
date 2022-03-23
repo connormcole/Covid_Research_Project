@@ -25,4 +25,4 @@ After cleaning the data, we will connect AWS RDS to a local PostgresSQL server u
 We will be using a regression supervised learning by using positive test data and link each state with their mandate laws, in order to try and predict future spikes in covid cases. We will use the sklearn.linear_model, and LinearRegression tools. 
 
 ## Dashboard 
-We will be using tableau to create in interactive map, and some graphs that display our data. 
+We will be using tableau to create an interactive map, and some graphs that display our data. 
