@@ -14,4 +14,7 @@ Pandas will be used on Jupyter Notebook to clean and extract our data. We will a
 We will be using PostgreSQL on AWS 
 
 ## Machine learning
-We will be using 
+
+
+## Dashboard 
+We will be using the D3.js dashboard to create an interactive and fun dashboard. 
