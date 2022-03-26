@@ -20,6 +20,7 @@ HA2.3: Vaccination does reduce death rates.
  ### Data Sources 
 The two sources we have picked are:
 
+HA2.2: Vaccination helps prevent COVID-19 transmission 
 
 https://covidactnow.org/data-api
 
