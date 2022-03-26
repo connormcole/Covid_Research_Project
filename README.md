@@ -20,6 +20,8 @@ HA2.3: Vaccination does reduce death rates.
  ### Data Sources 
 The two sources we have picked are:
 
+HA2.2: Vaccination helps prevent COVID-19 transmission 
+
 https://covidactnow.org/data-api
 
 https://www.littler.com/publication-press/publication/facing-your-face-mask-duties-list-statewide-orders
@@ -28,12 +30,10 @@ The COVID act now data API contains information about all states' vaccination nu
 
 We will be using data from March 01, 2021 to February 28, 2022 and analyze trend over a year. 
 
-![image](https://user-images.githubusercontent.com/92554586/159596460-7cde0416-ae3e-4f42-88ef-837ca299c7de.png)
-
 ## Team and Roles 
 There are four members in our team: 
 ##### Connor Cole: 
-Connor is playing role of the square where he will be will be responsible for the repository.
+Conor is playing role of the square where he will be will be responsible for the repository.
 
 ##### Adibayo Ajibosin 
 Adibayo is playing role of the triangle who will create mockup of machine learning model.
@@ -49,14 +49,12 @@ Github: Github is store work and so we can submit our work and combine branches.
 Phone and Text: If we need to communicate urgently and tell everyone something that cannot wait for them to be in front of a computer.   
 
 ## Machine Learning Model 
-We will be using a regression supervised learning by using positive test data and link each state with their mandate laws, in order to try and predict future spikes in covid cases. Our model is to show: (Y) Number of cases = (X) vaccines completed ratio to state population.
+Our model is to show 
+(Y) Number of cases = (X) vaccines completed ratio to state population
 
 ## Project Outline 
 
-1. Plan and gather info
-2. ETL with Pandas/RE in Python
-3. Create Postgres database in AWS
-4. Run machine learning analysis on database (library TBD)
-5. Compile into dashboard (program TBD. Tableau vs github pages)  
+
+
 
 ### Results are to be published. 
