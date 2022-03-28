@@ -28,4 +28,4 @@ We will be using a regression supervised learning by using positive test data an
 We will be using tableau to create an interactive map, and some graphs that display our data. 
 
 
-(Project Slides)[https://docs.google.com/presentation/d/1iJsyCX3Ue4k_nVe7nkrCchj5CML6APWzz7dHxmCkNDc/edit?usp=sharing]
+[Project Slides](https://docs.google.com/presentation/d/1iJsyCX3Ue4k_nVe7nkrCchj5CML6APWzz7dHxmCkNDc/edit?usp=sharing)
