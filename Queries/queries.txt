@@ -1,0 +1,9 @@
+Select si.state_id, 
+cd.date_,
+cd.hospital_beds,
+cd.vaccinated_ratio,
+sp.population
+into vaccine_beds
+from covid_data as cd
+left join state_id as si on si.state_id = cd.state_id
+left join state_population as sp on sp.state_name = si.state_name;
