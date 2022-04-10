@@ -3,7 +3,9 @@
 ## Overview 
 ### Topic and Hypothesis 
 There is plenty of argument in the US (and world) for and against mask mandate and vaccine mandate. Here we want to quantify if mask mandates, and COVID-19 vaccine are effective tools in fight against COVID-19. There are plenty of data available on mandates, vaccination rate, hospitalization, and covid related deaths. Here, our team will analyze following hypothesis. 
+
 H01: Mask mandate does nothing to prevent COVID-19 transmission. 
+
 HA1: Mask mandate does prevent COVID-19 transmission. 
 
 H02.1: Vaccination does not prevent COVID-19 transmission.
@@ -20,8 +22,6 @@ HA2.3: Vaccination does reduce death rates.
  ### Data Sources 
 The two sources we have picked are:
 
-HA2.2: Vaccination helps prevent COVID-19 transmission 
-
 https://covidactnow.org/data-api
 
 https://www.littler.com/publication-press/publication/facing-your-face-mask-duties-list-statewide-orders
@@ -33,7 +33,7 @@ We will be using data from March 01, 2021 to February 28, 2022 and analyze trend
 ## Team and Roles 
 There are four members in our team: 
 ##### Connor Cole: 
-Conor is playing role of the square where he will be will be responsible for the repository.
+Connor is playing role of the square where he will be will be responsible for the repository.
 
 ##### Adibayo Ajibosin 
 Adibayo is playing role of the triangle who will create mockup of machine learning model.
@@ -50,11 +50,12 @@ Phone and Text: If we need to communicate urgently and tell everyone something t
 
 ## Machine Learning Model 
 Our model is to show 
-(Y) Number of cases = (X) vaccines completed ratio to state population
+(Y) Number of cases = (X) vaccines completed ratio to state population.
 
 ## Project Outline 
 
+### Google Slides Presentation
+https://docs.google.com/presentation/d/1iJsyCX3Ue4k_nVe7nkrCchj5CML6APWzz7dHxmCkNDc/edit#slide=id.g35f391192_00
 
-
-
-### Results are to be published. 
+### Tableau Dashboard
+https://public.tableau.com/authoring/Covid_story_16492861766870/Story1#1
