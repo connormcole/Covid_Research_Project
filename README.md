@@ -75,8 +75,8 @@ Furthermore, these output tables were converted into CSV and using excel further
 ### Tableau
 Tableau dashboared can be found below. </br>
 
-![Covid_Data_Dashboared](Images/dashboard.PNG)
-[<img alt="alt_text" width="40px" src="images/dashboard.PNG" /](https://public.tableau.com/shared/XFDG3XJ73?:display_count=n&:origin=viz_share_link){:target="_blank"}
+[![Covid_Data_Dashboared](Images/dashboard.PNG)](https://public.tableau.com/shared/XFDG3XJ73?:display_count=n&:origin=viz_share_link)
+[Click here to see Tableau Dashboard](https://public.tableau.com/shared/XFDG3XJ73?:display_count=n&:origin=viz_share_link)
 
 #### H01: Mask mandate does nothing to prevent COVID-19 transmission.
 ![Mask Mandate](Images/Mask_line.PNG) </br>
