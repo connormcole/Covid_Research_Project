@@ -58,4 +58,4 @@ Our model is to show
 https://docs.google.com/presentation/d/1iJsyCX3Ue4k_nVe7nkrCchj5CML6APWzz7dHxmCkNDc/edit#slide=id.g35f391192_00
 
 ### Tableau Dashboard
-https://public.tableau.com/authoring/Covid_story_16492861766870/Story1#1
+https://public.tableau.com/app/profile/hammad.rahman/viz/Covid_story_16492861766870/Dashboard1?publish=yes
