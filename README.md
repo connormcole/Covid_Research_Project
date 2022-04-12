@@ -82,6 +82,7 @@ Furthermore, these output tables were converted into CSV and using excel further
 ## Results. 
 ### Tableau
 Tableau dashboared can be found below.
-![Covid_Data_Dashboared](https://public.tableau.com/shared/XFDG3XJ73?:display_count=n&:origin=viz_share_link)
+
+![Covid_Data_Dashboared](Images/dashboard.PNG)(https://public.tableau.com/shared/XFDG3XJ73?:display_count=n&:origin=viz_share_link)
 
 
